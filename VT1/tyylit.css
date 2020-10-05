@@ -1,0 +1,7 @@
+#tupa {
+  float: right;
+  border: 1px solid black;
+  margin: 1em;
+  padding: 0.5em;
+  min-height: 10em;
+}
